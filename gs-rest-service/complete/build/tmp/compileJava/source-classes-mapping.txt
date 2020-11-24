@@ -1,0 +1,6 @@
+com/example/restservice/Article.java
+ com.example.restservice.Article
+com/example/restservice/RestServiceApplication.java
+ com.example.restservice.RestServiceApplication
+com/example/restservice/ArticleController.java
+ com.example.restservice.ArticleController
